@@ -1,0 +1,11 @@
+2026-09-07 17:41:39.884 [main] INFO  com.yizhaoqi.smartpai.SmartPaiApplication - Starting SmartPaiApplication using Java 17.0.12 with PID 22444 (D:\software\Ideal\IntelliJ IDEA 2025.2.2\Project\PaiSmart-main\PaiSmart-main\target\classes started by 17929 in D:\software\Ideal\IntelliJ IDEA 2025.2.2\Project\PaiSmart-main)
+2026-09-07 17:41:39.886 [main] DEBUG com.yizhaoqi.smartpai.SmartPaiApplication - Running with Spring Boot v3.4.2, Spring v6.2.2
+2026-09-07 17:41:39.887 [main] INFO  com.yizhaoqi.smartpai.SmartPaiApplication - No active profile set, falling back to 1 default profile: "default"
+2026-09-07 17:57:02.164 [main] INFO  com.yizhaoqi.smartpai.SmartPaiApplication - Starting SmartPaiApplication using Java 17.0.12 with PID 29608 (D:\software\Ideal\IntelliJ IDEA 2025.2.2\Project\PaiSmart-main\PaiSmart-main\target\classes started by 17929 in D:\software\Ideal\IntelliJ IDEA 2025.2.2\Project\PaiSmart-main)
+2026-09-07 17:57:02.167 [main] DEBUG com.yizhaoqi.smartpai.SmartPaiApplication - Running with Spring Boot v3.4.2, Spring v6.2.2
+2026-09-07 17:57:02.170 [main] INFO  com.yizhaoqi.smartpai.SmartPaiApplication - No active profile set, falling back to 1 default profile: "default"
+2026-09-07 18:02:49.752 [main] INFO  com.yizhaoqi.smartpai.SmartPaiApplication - Starting SmartPaiApplication using Java 17.0.12 with PID 2296 (D:\software\Ideal\IntelliJ IDEA 2025.2.2\Project\PaiSmart-main\PaiSmart-main\target\classes started by 17929 in D:\software\Ideal\IntelliJ IDEA 2025.2.2\Project\PaiSmart-main)
+2026-09-07 18:02:49.754 [main] DEBUG com.yizhaoqi.smartpai.SmartPaiApplication - Running with Spring Boot v3.4.2, Spring v6.2.2
+2026-09-07 18:02:49.754 [main] INFO  com.yizhaoqi.smartpai.SmartPaiApplication - No active profile set, falling back to 1 default profile: "default"
+2026-09-07 18:02:55.513 [main] DEBUG c.yizhaoqi.smartpai.config.JwtAuthenticationFilter - Filter 'jwtAuthenticationFilter' configured for use
+2026-09-07 18:02:55.514 [main] DEBUG c.y.smartpai.config.OrgTagAuthorizationFilter - Filter 'orgTagAuthorizationFilter' configured for use
