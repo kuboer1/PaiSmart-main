@@ -169,12 +169,12 @@ deepseek:
   api:
     url: ${DEEPSEEK_API_URL:https://api.deepseek.com/v1}
     model: ${DEEPSEEK_API_MODEL:deepseek-chat}
-    key: ${DEEPSEEK_API_KEY:***REMOVED***}
+    key: ${DEEPSEEK_API_KEY:}
 
 embedding:
   api:
     url: ${EMBEDDING_API_URL:https://dashscope.aliyuncs.com/compatible-mode/v1}
-    key: ${EMBEDDING_API_KEY:sk-ws-H.PDMXHPP.u4Tz.MEUCIQDvbEGS8oXuP44oSnOnKFxrzcsga0PWqP04CKcjlibCIAIgHYtd7P043P_yeubm8ba9a4VdfHD5PpmPtOHkvX9i0TQ}
+    key: ${EMBEDDING_API_KEY:}
     model: ${EMBEDDING_API_MODEL:text-embedding-v4}
     batch-size: ${EMBEDDING_BATCH_SIZE:10}
     dimension: ${EMBEDDING_DIMENSION:2048}
